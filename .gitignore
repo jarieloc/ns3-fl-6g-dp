@@ -52,3 +52,4 @@ cmake-cache/
 # VSCode and misc
 .vscode/
 .DS_Store
+!ns3-fl-network/contrib/thz/**
