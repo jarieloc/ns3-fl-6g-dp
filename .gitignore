@@ -1,0 +1,54 @@
+# top-level ignores
+data/
+datasets/
+models/
+plots/
+reports.pkl
+
+# python + misc
+**/__pycache__/
+*.pt
+*.pth
+*.pkl
+*.npz
+*.npy
+.DS_Store
+# root ignores (in addition to per-project ignores)
+build/
+cmake-cache/
+*.pcap
+*.tr
+*.log
+*.dat
+*.plt
+*.mob
+*.routes
+# VSCode and misc
+.vscode/
+.DS_Store
+# root ignores (in addition to per-project ignores)
+build/
+cmake-cache/
+*.pcap
+*.tr
+*.log
+*.dat
+*.plt
+*.mob
+*.routes
+# VSCode and misc
+.vscode/
+.DS_Store
+# root ignores (in addition to per-project ignores)
+build/
+cmake-cache/
+*.pcap
+*.tr
+*.log
+*.dat
+*.plt
+*.mob
+*.routes
+# VSCode and misc
+.vscode/
+.DS_Store
